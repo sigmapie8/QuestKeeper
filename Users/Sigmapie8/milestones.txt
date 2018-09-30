@@ -1,0 +1,12 @@
+Milestones for Sep 30th, 2018 - Oct 6th, 2018
+-----------------------------------------------
+
+[] Zero width characters
+    [] Learn about zero width charachters
+    [] Make a python tool CLI tool that can easily scrape off zero width characters from files
+        [] txt
+        [] docx
+        [] xlsx
+        [] pdfs
+    [] Write a blog post on them
+ 
