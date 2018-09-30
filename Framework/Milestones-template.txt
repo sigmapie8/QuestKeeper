@@ -1,0 +1,19 @@
+Milestones are going to highlight your task for the on going week. 
+You will be actively pursuing a task and have subtasks (milestones) that you commit to complete in this week.
+the milestones file will be created in a folder of your name as milestones.txt
+It will have tasks and subtasks written out in the following manner:
+
+
+[] Task 1
+<4 spaces gap>[] sub task 1
+<4 spaces gap>[] sub task 2
+<4 spaces gap>[] sub task 3
+
+[] Task 2
+<4 spaces gap>[] sub task 1
+<4 spaces gap>[] sub task 2
+<4 spaces gap>[] sub task 3
+
+Anything completed will be marked as [X] (notice the capital X)
+Kindly update it on evey sunday. You are free to add/delete things during the week as you seem fit. It's your time after all. 
+
