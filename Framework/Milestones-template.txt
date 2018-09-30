@@ -17,3 +17,9 @@ It will have tasks and subtasks written out in the following manner:
 Anything completed will be marked as [X] (notice the capital X)
 Kindly update it on evey sunday. You are free to add/delete things during the week as you seem fit. It's your time after all. 
 
+For commit messages - put in dates of the start and end of the week in the following format:
+"milestones for MMDDYYYY - MMDDYYYY"
+
+If you make any updates during the week, append update # to the commit message as following:
+"milestones for MMDDYYYY - MMDDYYYY update NUMBER"
+
