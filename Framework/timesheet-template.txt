@@ -2,12 +2,12 @@ timesheet is how you keep track of how many hours you are giving to your goals.
 create a timesheet in the following manner :
 
 MMDDYYYY
-HH:MM (start time) - HH:MM (end time) - <name of the task/subtask your worked on>
-HH:MM (start time) - HH:MM (end time) - <name of the task/subtask your worked on> (if work in more than one slot)
+HH:MM (start time) - HH:MM (end time) - mins - <name of the task/subtask your worked on>
+HH:MM (start time) - HH:MM (end time) - mins - <name of the task/subtask your worked on> (if work in more than one slot)
 
 MMDDYYYY
-HH:MM (start time) - HH:MM (end time) - <name of the task/subtask your worked on>
-HH:MM (start time) - HH:MM (end time) - <name of the task/subtask your worked on> (if work in more than one slot)
+HH:MM (start time) - HH:MM (end time) - mins - <name of the task/subtask your worked on>
+HH:MM (start time) - HH:MM (end time) - mins - <name of the task/subtask your worked on> (if work in more than one slot)
 
 timesheets are to be saved as - timesheet-MMDDYYYY-MMDDYYYY.txt under Users/<your name>/Timesheets/
 
