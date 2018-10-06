@@ -1,3 +1,8 @@
 10-01-2018
 12:21 - 12:58 - 37 mins - Learn about zero width charachters
 14:20 - 16:00 - 100 mins - Write a blog post on them
+
+10-2-2018
+13:40 - 14:20 - 40 mins - Make a python tool CLI tool that can easily scrape off zero width characters from files
+14:30 - 16:24 - 114 mins - Make a python tool CLI tool that can easily scrape off zero width characters from files
+17:00 - 17:30 - 30 mins - Make a python tool CLI tool that can easily scrape off zero width characters from files
