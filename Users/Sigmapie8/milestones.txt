@@ -9,5 +9,5 @@ Milestones for Oct 7th, 2018 - Oct 13th, 2018
         [] pdfs
     [] Write a blog post on them
 [] Make atleast one PR to SecureDrop
-[] Write a post about pycon
+[X] Write a post about pycon
  
