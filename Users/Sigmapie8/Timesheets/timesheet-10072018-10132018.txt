@@ -1,4 +1,10 @@
 October 10th, 2018
-
 15:30 - 16:19 - 49 mins - Make a python tool CLI tool that can easily scrape off zero width characters from files
-21:27 - 00:20 - 170 mins - Write a post about pycon
+
+October 11th, 2018
+21:27 - 24:00 - 150 mins - Write a post about pycon
+
+October 12th, 2018
+00:00 - 00:20 - 20 mins - Write a post about pycon
+12:04 - 12:54 - 50 mins - Make a python tool CLI tool that can easily scrape off zero width characters from files
+
