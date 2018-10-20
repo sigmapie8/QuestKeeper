@@ -1,12 +1,14 @@
-Milestones for Oct 7th, 2018 - Oct 13th, 2018
+Milestones for Oct 14th, 2018 - Oct 20th, 2018
 -----------------------------------------------
 
-[] HeadFirst Statistics
-    [] Finish Chapter 1-3
+[x] HeadFirst Statistics
+    [x] Finish Chapter 1
+    [x] Finish Chapter 2
+    [x] Finish Chapter 3
 
-[x] Graph Theory
-    [x] Finish the youtube Series
-
-[] Writing - Articles/Story
+[] Writing
+    [] - Write 3 articles
 
 [] Meditate Daily
+
+[] Prepare Idea-list for NLP Projects
