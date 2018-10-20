@@ -1,28 +1,4 @@
 Milestones for Oct 14th, 2018 - Oct 20th, 2018
 -----------------------------------------------
 
-[] Zero width characters
-    [] Make a python tool CLI tool that can easily scrape off zero width characters from files
-        [] docx
-        [] xlsx
-        [] pdfs
-        [] xml
-    [] Write a blog post on them
-    
-[] Complete Algorithms & Data Structures [Part 1] course
-    [] Linked List
-    [] Stack
-    [] Queue
-    [] Binary Tree
-    [] Hash Tables
-
-[] Solve 1 Programming Question Everyday with python
-    [X] Sunday
-    [] Monday
-    [] Tuesday
-    [] Wednesday
-    [] Thursday
-    [] Friday
-    [] Saturday
-    
-[] Make atleast one PR to SecureDrop
+[] Complete beginner Flask tutorial
