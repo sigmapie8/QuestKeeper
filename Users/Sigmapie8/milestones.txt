@@ -3,3 +3,4 @@ Milestones for Oct 14th, 2018 - Oct 20th, 2018
 
 [] Complete beginner Flask tutorial
 [] learn vim
+[] Setup a blog
