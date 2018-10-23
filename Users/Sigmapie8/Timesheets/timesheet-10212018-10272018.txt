@@ -1,3 +1,9 @@
 21st October, 2018
 2300 - 2400 - 60 mins - vim & flask
 
+22nd October, 2018
+11:00 - 13:00 - 120 mins - vim & flask
+
+23rd October, 2018
+14:30 - 14:20 - 10 mins - vim
+22:00 - 24:00 - 120 mins - setting up blog
