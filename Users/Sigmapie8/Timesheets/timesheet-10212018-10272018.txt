@@ -7,3 +7,6 @@
 23rd October, 2018
 14:30 - 14:20 - 10 mins - vim
 22:00 - 24:00 - 120 mins - setting up blog
+
+24th October, 2018
+00:00 - 02:00 - 120 mins - domain research, workings of static site generator
