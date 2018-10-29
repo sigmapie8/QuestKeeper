@@ -2,3 +2,5 @@ Milestones for Oct 28th, 2018 - Nov 3, 2018
 -----------------------------------------------
 
 [] Read Atleast 20 pages or 1 chapter per day
+[] A Python Script for fetching birthdays from Facebook
+[] Deploy your website
