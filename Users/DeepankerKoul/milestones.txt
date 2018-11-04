@@ -1,14 +1,15 @@
-Milestones for Oct 21th, 2018 - Oct 27th, 2018
+Milestones for Oct 28th, 2018 - Nov 03rd, 2018
 -----------------------------------------------
 
-[X] HeadFirst Statistics
-    [X] Finish Chapter 4
-    [X] Finish Chapter 5
-    [X] Finish Chapter 6
+[] HeadFirst Statistics
+    [] Finish Chapter 7
+    [] Finish Chapter 8
+    [] Finish Chapter 9
+    [] Finish Chapter 10
 
 [] Writing
     [] - Prepare an outline for Minority series
-    [] - Write Minority/Identity
+    [X] - Write at least one article
 
 [] Meditate Daily
 
